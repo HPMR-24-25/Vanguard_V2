@@ -1,1 +1,1 @@
-"# Vanguard V2" 
+# Vanguard V2
