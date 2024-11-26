@@ -1,0 +1,69 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP ST1L05CPU33R
+D LDO Voltage Regulators Low Quiescent BiCMOS Voltage Regulator
+K
+F https://www.mouser.de/datasheet/2/389/st1l05-974244.pdf
+$ENDCMP
+#
+$CMP LFXTAL078719Cutt
+D Crystals 25MHz 10ppm 10pF -20C + 70C
+K
+F https://www.mouser.de/datasheet/2/741/LFXTAL078719Cutt-1623884.pdf
+$ENDCMP
+#
+$CMP ABM3-32.768MHZ-E4H-T
+D Crystal 32.768MHz +/-30ppm (Tol) +/-35ppm (Stability) 18pF FUND 25Ohm 2-Pin Mini-CSMD T/R
+K
+F https://abracon.com/Resonators/abm3.pdf
+$ENDCMP
+#
+$CMP ASM330LHHTR
+D STMICROELECTRONICS - ASM330LHHTR - MEMS MOD, 3-AXIS GYROSCOPE/ACCELEROMETER
+K
+F https://www.st.com/resource/en/datasheet/asm330lhh.pdf
+$ENDCMP
+#
+$CMP MEM2067-02-180-00-A
+D GCT (GLOBAL CONNECTOR TECHNOLOGY) - MEM2067-02-180-00-A - Memory Socket, MEM2067 Series, Memory Card, 8 Contacts, Copper Alloy, Gold Plated Contacts
+K
+F https://gct.co/files/drawings/mem2067.pdf
+$ENDCMP
+#
+$CMP MAX-M10S-00B
+D GPS Modules u-blox M10 GNSS LCC module, firmware in ROM, SAW filter, LNA
+K
+F https://content.u-blox.com/sites/default/files/MAX-M10S_IntegrationManual_UBX-20053088.pdf
+$ENDCMP
+#
+$CMP PESD0402-140
+D LITTELFUSE - PESD0402-140 - ESD SUPPRESSOR, 0402, 14V, 0.25PF
+K
+F https://www.littelfuse.com/~/media/electronics/product_specifications/polymer_esd_suppressors/littelfuse_polymer_esd_suppressor_pesd0402_140_product_specification.pdf.pdf
+$ENDCMP
+#
+$CMP 830069390
+D 32 MHz +/-20ppm Crystal 10pF 70 Ohms 4-SMD, No Lead
+K
+F https://www.we-online.com/catalog/datasheet/830069390.pdf
+$ENDCMP
+#
+$CMP ADXL375BCCZ-RL
+D Accelerometer Triple +/-200g 2.5V/3.3V 14-Pin LGA T/R
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL375.PDF
+$ENDCMP
+#
+$CMP MMC5983MA
+D 3-AXIS MAGNETIC SENSOR
+K
+F https://www.mouser.com/datasheet/2/821/Memsic_09102019_MMC5983MA_Datasheet_Rev_A-1635338.pdf
+$ENDCMP
+#
+#End Doc Library
