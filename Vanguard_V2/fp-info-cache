@@ -1,4 +1,4 @@
-24210102998669516
+24211836029833920
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97334,6 +97334,13 @@ Integrated Circuit
 0
 8
 8
+VanguardLib
+SI7232DNT1GE3
+PowerPAK1212-8_2021
+MOSFET (N-Channel)
+0
+16
+16
 VanguardLib
 SON95P300X300X100-7N-D
 DFN
