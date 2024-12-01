@@ -45,7 +45,7 @@
 	)
 	(sheet
 		(at 231.14 96.52)
-		(size 49.53 63.5)
+		(size 49.53 24.765)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -65,7 +65,7 @@
 			)
 		)
 		(property "Sheetfile" "IO.kicad_sch"
-			(at 231.14 160.6046 0)
+			(at 231.14 121.8696 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -115,6 +115,44 @@
 			(project "Vanguard_V2"
 				(path "/3eaebd91-5a76-469f-9e30-3d62ffb5c6ad"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 231.14 127)
+		(size 49.53 31.115)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "43e62e4c-994d-4874-9cda-91dbccc106c7")
+		(property "Sheetname" "Ejection Charges"
+			(at 231.14 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Charges.kicad_sch"
+			(at 231.14 158.6996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Vanguard_V2"
+				(path "/3eaebd91-5a76-469f-9e30-3d62ffb5c6ad"
+					(page "7")
 				)
 			)
 		)
