@@ -1203,7 +1203,7 @@
 		(uuid "784d549a-f735-42b2-9507-0dd5438c53f7")
 	)
 	(junction
-		(at 96.52 38.1)
+		(at 68.58 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "78d889ac-490d-49cf-b8c7-0993fca7ad41")
@@ -1232,16 +1232,6 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 35.56) (xy 121.92 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c7c189c-0c01-4aa7-aaaa-d60fe5d648f9")
-	)
-	(wire
-		(pts
 			(xy 33.02 68.58) (xy 33.02 66.04)
 		)
 		(stroke
@@ -1252,7 +1242,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 48.26) (xy 121.92 48.26)
+			(xy 91.44 58.42) (xy 93.98 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1332,7 +1322,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 38.1) (xy 96.52 45.72)
+			(xy 68.58 48.26) (xy 68.58 55.88)
 		)
 		(stroke
 			(width 0)
@@ -1352,26 +1342,6 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 80.01) (xy 43.18 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c0e057c-2508-4307-8357-b8e746dbf0cf")
-	)
-	(wire
-		(pts
-			(xy 119.38 40.64) (xy 121.92 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8059ea4c-1d74-4810-8d85-4e9757ef64f6")
-	)
-	(wire
-		(pts
 			(xy 29.21 35.56) (xy 31.75 35.56)
 		)
 		(stroke
@@ -1379,16 +1349,6 @@
 			(type default)
 		)
 		(uuid "84e8adc4-b5f6-4ee8-ba69-81f02649cf50")
-	)
-	(wire
-		(pts
-			(xy 43.18 93.98) (xy 43.18 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c3d5cb0-4e25-4005-b848-94cac3e4c325")
 	)
 	(wire
 		(pts
@@ -1402,7 +1362,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 38.1) (xy 121.92 38.1)
+			(xy 68.58 48.26) (xy 93.98 48.26)
 		)
 		(stroke
 			(width 0)
@@ -1422,7 +1382,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 43.18) (xy 121.92 43.18)
+			(xy 91.44 53.34) (xy 93.98 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1432,13 +1392,23 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 35.56) (xy 111.76 35.56)
+			(xy 82.55 45.72) (xy 93.98 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a34ddf9c-b398-43c9-8875-17938e63ba99")
+	)
+	(wire
+		(pts
+			(xy 43.18 80.01) (xy 27.94 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aafa8fed-12c5-4709-b1ee-63ac1535a78a")
 	)
 	(wire
 		(pts
@@ -1462,7 +1432,17 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 33.02) (xy 96.52 33.02)
+			(xy 43.18 92.71) (xy 43.18 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0dbd467-0002-43cf-9d4c-3d9f55a938ea")
+	)
+	(wire
+		(pts
+			(xy 93.98 43.18) (xy 68.58 43.18)
 		)
 		(stroke
 			(width 0)
@@ -1482,7 +1462,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 33.02) (xy 96.52 38.1)
+			(xy 68.58 43.18) (xy 68.58 48.26)
 		)
 		(stroke
 			(width 0)
@@ -1502,7 +1482,17 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 40.64) (xy 111.76 40.64)
+			(xy 43.18 85.09) (xy 43.18 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2680d93-b162-4a1a-8af9-c8501d3eac02")
+	)
+	(wire
+		(pts
+			(xy 82.55 50.8) (xy 93.98 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1566,7 +1556,7 @@
 	)
 	(global_label "C2_GATE"
 		(shape input)
-		(at 107.95 40.64 180)
+		(at 82.55 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1576,7 +1566,7 @@
 		)
 		(uuid "4f3c52f1-ef93-487f-b6bd-ac7947cee804")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.0425 40.64 0)
+			(at 71.6425 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1588,7 +1578,7 @@
 	)
 	(global_label "C1_GATE"
 		(shape input)
-		(at 107.95 35.56 180)
+		(at 82.55 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1598,7 +1588,7 @@
 		)
 		(uuid "5b0312ce-9585-42e9-9406-aafccf1747f1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.0425 35.56 0)
+			(at 71.6425 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1654,7 +1644,7 @@
 	)
 	(global_label "C1_M"
 		(shape input)
-		(at 119.38 48.26 180)
+		(at 91.44 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1664,7 +1654,7 @@
 		)
 		(uuid "76f0fd2f-aa35-4add-bda5-c1868da957d3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.4963 48.26 0)
+			(at 83.5563 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1698,7 +1688,7 @@
 	)
 	(global_label "C2_M"
 		(shape input)
-		(at 119.38 43.18 180)
+		(at 91.44 53.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1708,7 +1698,7 @@
 		)
 		(uuid "d89d0c3b-e707-48e3-84bb-fc2b810b4715")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.4963 43.18 0)
+			(at 83.5563 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1786,7 +1776,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 43.18 83.82 0)
+		(at 43.18 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1795,7 +1785,7 @@
 		(fields_autoplaced yes)
 		(uuid "0c207c6b-8de0-40b2-bf65-96b639af5a94")
 		(property "Reference" "R13"
-			(at 45.72 82.5499 0)
+			(at 45.72 87.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1804,7 +1794,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 45.72 85.0899 0)
+			(at 45.72 90.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1813,7 +1803,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 41.402 83.82 90)
+			(at 41.402 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1822,7 +1812,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 43.18 83.82 0)
+			(at 43.18 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1831,7 +1821,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 43.18 83.82 0)
+			(at 43.18 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1990,75 +1980,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 115.57 40.64 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "29298d67-43d4-44a9-bdaa-310219f7fa8a")
-		(property "Reference" "R12"
-			(at 115.5934 40.7729 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10"
-			(at 115.57 38.608 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 115.57 42.418 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 115.57 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 115.57 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "aa2983a1-668f-44fb-a0a8-6893e89930c5")
-		)
-		(pin "2"
-			(uuid "6b4029c7-a920-47f0-a837-9d3dd4eddfcb")
-		)
-		(instances
-			(project "Vanguard_V2"
-				(path "/3eaebd91-5a76-469f-9e30-3d62ffb5c6ad/43e62e4c-994d-4874-9cda-91dbccc106c7"
-					(reference "R12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "VanguardLib:SI7232DN-T1-GE3")
-		(at 121.92 33.02 0)
+		(at 93.98 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2067,7 +1990,7 @@
 		(fields_autoplaced yes)
 		(uuid "2da290a8-2597-4ded-8ac9-7dd7e31b1ebf")
 		(property "Reference" "Q1"
-			(at 135.89 25.4 0)
+			(at 107.95 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2075,7 +1998,7 @@
 			)
 		)
 		(property "Value" "SI7232DN-T1-GE3"
-			(at 135.89 27.94 0)
+			(at 107.95 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2083,7 +2006,7 @@
 			)
 		)
 		(property "Footprint" "SI7232DNT1GE3"
-			(at 146.05 127.94 0)
+			(at 118.11 138.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2093,7 +2016,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/68986/si7232dn.pdf"
-			(at 146.05 227.94 0)
+			(at 118.11 238.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2103,7 +2026,7 @@
 			)
 		)
 		(property "Description" "Dual N-Channel (D-S)MOSFET 20V Vds 8V Vgs PowerPAK 1212-8"
-			(at 121.92 33.02 0)
+			(at 93.98 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2112,7 +2035,7 @@
 			)
 		)
 		(property "Height" "1.12"
-			(at 146.05 427.94 0)
+			(at 118.11 438.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2122,7 +2045,7 @@
 			)
 		)
 		(property "Mouser Part Number" "781-SI7232DN-GE3"
-			(at 146.05 527.94 0)
+			(at 118.11 538.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2132,7 +2055,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI7232DN-T1-GE3?qs=%252BPu8jn5UVnH5FJ8Jo4EbFw%3D%3D"
-			(at 146.05 627.94 0)
+			(at 118.11 638.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2142,7 +2065,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Vishay"
-			(at 146.05 727.94 0)
+			(at 118.11 738.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2152,7 +2075,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SI7232DN-T1-GE3"
-			(at 146.05 827.94 0)
+			(at 118.11 838.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2219,75 +2142,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 115.57 35.56 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "553c0017-7c71-45d2-970f-9f8cb4dc46a0")
-		(property "Reference" "R10"
-			(at 115.5934 35.6929 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10"
-			(at 115.57 33.528 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 115.57 37.338 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 115.57 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 115.57 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bb21b971-ab97-4ccb-8d0d-508975d8058b")
-		)
-		(pin "2"
-			(uuid "7d7376d4-2798-4ac9-bf7b-38e8045253bd")
-		)
-		(instances
-			(project "Vanguard_V2"
-				(path "/3eaebd91-5a76-469f-9e30-3d62ffb5c6ad/43e62e4c-994d-4874-9cda-91dbccc106c7"
-					(reference "R10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 96.52 45.72 0)
+		(at 68.58 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2296,7 +2152,7 @@
 		(fields_autoplaced yes)
 		(uuid "561203a9-b68a-45b6-bb82-f9cde7207a0b")
 		(property "Reference" "#PWR061"
-			(at 96.52 52.07 0)
+			(at 68.58 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2305,7 +2161,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 96.52 50.8 0)
+			(at 68.58 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2313,7 +2169,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 96.52 45.72 0)
+			(at 68.58 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2322,7 +2178,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 45.72 0)
+			(at 68.58 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2331,7 +2187,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 96.52 45.72 0)
+			(at 68.58 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
