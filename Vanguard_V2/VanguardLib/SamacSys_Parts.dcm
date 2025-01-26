@@ -66,4 +66,10 @@ K
 F https://www.mouser.com/datasheet/2/821/Memsic_09102019_MMC5983MA_Datasheet_Rev_A-1635338.pdf
 $ENDCMP
 #
+$CMP SI7232DN-T1-GE3
+D Dual N-Channel (D-S)MOSFET 20V Vds 8V Vgs PowerPAK 1212-8 
+K
+F https://www.vishay.com/docs/68986/si7232dn.pdf
+$ENDCMP
+#
 #End Doc Library
