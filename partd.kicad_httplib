@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "version": 1.0
+  },
+  "name": "Part-DB Library",
+  "description": "Fetches information from ",
+  "source": {
+    "type": "REST_API",
+    "api_version": "v1",
+    "root_url": "https://inventory.frostydev.org/en/kicad-api/",
+    "token": "tcp_6383408c7dd67ee03611ab9697067e4dcf5ba144c2d4afba2e3c90f770b7f75e"
+  }
+}
