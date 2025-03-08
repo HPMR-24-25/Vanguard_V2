@@ -1,0 +1,28 @@
+### Footprint positions - created on 2025-02-17T22:12:48-0500 ###
+### Printed by KiCad version 8.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                  Package                                 PosX       PosY       Rot  Side
+C7        10uF                 C_0402_1005Metric                   130.7000   -79.9000  -90.0000  bottom
+C8        10uF                 C_0402_1005Metric                   141.4000   -81.8000   90.0000  bottom
+C15       100nF                C_0402_1005Metric                   149.6060   -84.3280    0.0000  bottom
+C16       4.7uF                C_0402_1005Metric                   149.7330   -90.2970  -90.0000  bottom
+C17       4.7uF                C_0402_1005Metric                   147.8280   -90.2970  -90.0000  bottom
+C23       10nF                 C_0402_1005Metric                   121.5000   -77.4000    0.0000  bottom
+C31       10uF                 C_0402_1005Metric                   128.8000   -95.2800   90.0000  bottom
+C32       10nF                 C_0402_1005Metric                   128.1000   -83.9000   90.0000  bottom
+D2        D_Schottky           D_0402_1005Metric                   146.2000   -83.8200  -90.0000  bottom
+D3        PESD0402-140         DIONC1005X43N                       117.8560   -74.9300  -90.0000  bottom
+D7        CDBU0520             R_0402_1005Metric                   128.5000   -79.4000  180.0000  bottom
+FB2       1k_100MHz            C_0603_1608Metric                   119.3800   -76.3270  -90.0000  bottom
+FB3       1k_100MHz            C_0603_1608Metric                   127.3000   -85.6000    0.0000  bottom
+IC1       ST1L05CPU33R         SON95P300X300X100-7N-D              148.7780   -87.0980  -90.0000  bottom
+IC2       MAX-M10S-00B         MAXM10S00B                          110.3630   -78.7400  180.0000  bottom
+J3        MEM2067-02-180-00-A  MEM20670218000A                     138.0490   -88.9000    0.0000  bottom
+J7        Conn_Coaxial         U.FL_Hirose_U.FL-R-SMT-1_Vertical   122.6820   -74.8030   90.0000  bottom
+J9        Conn_Coaxial         U.FL_Hirose_U.FL-R-SMT-1_Vertical   121.6750   -83.9000  180.0000  bottom
+R3        10k                  R_0402_1005Metric                   147.8280   -83.8200  -90.0000  bottom
+R11       10                   R_0402_1005Metric                   117.8560   -77.5970  -90.0000  bottom
+U2        LD1117S50TR_SOT223   SOT-223-3_TabPin2                   136.0000   -81.8000    0.0000  bottom
+U6        RFM95W-915S2         HOPERF_RFM9XW_SMD                   118.9990   -94.7000    0.0000  bottom
+## End

@@ -1,0 +1,58 @@
+### Footprint positions - created on 2025-02-17T22:12:48-0500 ###
+### Printed by KiCad version 8.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                                         PosX       PosY       Rot  Side
+C1        2.2uF                 C_0402_1005Metric                                           147.3200   -77.8510  180.0000  top
+C2        2.2uF                 C_0402_1005Metric                                           138.8000   -96.7200  180.0000  top
+C3        1uF                   C_0402_1005Metric                                           123.3170   -90.2690   90.0000  top
+C4        100nF                 C_0402_1005Metric                                           124.4600   -90.2970   90.0000  top
+C9        4.7uF                 C_0402_1005Metric                                           123.2000   -78.1000  -90.0000  top
+C10       100nF                 C_0402_1005Metric                                           124.3000   -78.1000  -90.0000  top
+C11       100nF                 C_0402_1005Metric                                           125.4000   -78.1000  -90.0000  top
+C12       100nF                 C_0402_1005Metric                                           126.5000   -78.1000  -90.0000  top
+C13       100nF                 C_0402_1005Metric                                           122.1000   -77.1000   90.0000  top
+C14       100nF                 C_0402_1005Metric                                           123.7000   -76.6000    0.0000  top
+C18       100nF                 C_0402_1005Metric                                           107.2000   -79.4000  180.0000  top
+C19       100nF                 C_0402_1005Metric                                           140.8000   -96.2000    0.0000  top
+C20       100nF                 C_0402_1005Metric                                           143.1000   -78.3000  180.0000  top
+C21       0.1uF                 C_0402_1005Metric                                           138.0490  -101.8540  -90.0000  top
+C22       1uF                   C_0402_1005Metric                                           146.6850  -100.8380   90.0000  top
+C24       100nF                 C_0402_1005Metric                                           131.3180  -100.1750   90.0000  top
+C25       100nF                 C_0402_1005Metric                                           130.8000   -98.0000    0.0000  top
+C26       10uF                  C_0402_1005Metric                                           130.2909  -100.1719   90.0000  top
+C27       10uF                  C_0402_1005Metric                                           132.4610  -100.2030   90.0000  top
+C28       220nF                 C_0402_1005Metric                                           135.1280   -99.0600  180.0000  top
+C29       100nF                 C_0402_1005Metric                                           131.9530  -101.7000  180.0000  top
+C30       100nF                 C_0402_1005Metric                                           133.4770  -101.0920   90.0000  top
+D1        LED                   LED_0603_1608Metric                                         108.8000  -101.2000  180.0000  top
+D4        D_Schottky            D_0603_1608Metric                                           109.6000   -92.0000  -90.0000  top
+D5        D_Schottky            D_0603_1608Metric                                           109.9000   -86.2000   90.0000  top
+FB1       1k_100MHz             C_0603_1608Metric                                           121.9200   -89.9160  -90.0000  top
+IC3       ADXL375BCCZ-RL        ADXL375BCCZRL                                               142.2720  -100.2020   90.0000  top
+IC4       ASM330LHHTR           LSM6DS3USTR                                                 127.4850  -100.0640   90.0000  top
+J1        Conn_01x02_Pin        PinHeader_1x02_P2.54mm_Vertical                              99.3140   -92.1970    0.0000  top
+J2        Conn_01x05_Pin        PinHeader_1x05_P2.54mm_Vertical                             128.7780   -74.2950   90.0000  top
+J4        Conn_01x04_Pin        PinSocket_1x04_P2.54mm_Vertical                              99.3140   -88.3920  180.0000  top
+J5        Conn_01x02_Pin        PinHeader_1x02_P2.54mm_Vertical                             142.6160   -74.2950   90.0000  top
+J6        Screw_Terminal_01x04  TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal   104.8000   -94.6200   90.0000  top
+J8        USB_B_Micro           USB_Micro-B_GCT_USB3076-30-A                                150.6920   -83.3310   90.0000  top
+Q1        SI7232DN-T1-GE3       SI7232DNT1GE3                                               114.1500   -90.2750   90.0000  top
+R1        10k                   R_0402_1005Metric                                           145.1610   -77.0890   90.0000  top
+R2        10k                   R_0402_1005Metric                                           143.1290   -76.5810  180.0000  top
+R4        220                   R_0402_1005Metric                                           105.9000  -101.3000    0.0000  top
+R5        10k                   R_0402_1005Metric                                           112.8000   -74.3000  -90.0000  top
+R6        10k                   R_0402_1005Metric                                           131.4000   -96.5000  180.0000  top
+R7        10k                   R_0402_1005Metric                                           126.4000   -95.8000    0.0000  top
+R8        100                   R_0402_1005Metric                                           101.8000   -82.2100  -90.0000  top
+R9        100                   R_0402_1005Metric                                           102.2000   -84.1900  180.0000  top
+R13       10k                   R_0402_1005Metric                                           119.0000   -90.6000    0.0000  top
+R14       10k                   R_0402_1005Metric                                           118.6000   -88.5000  -90.0000  top
+SW1       SW_Push               SW_SPST_PTS810                                              105.6640   -75.8190   90.0000  top
+SW2       SW_Push               SW_SPST_PTS810                                              109.6010   -75.8190  -90.0000  top
+U1        STM32H743VITx         LQFP-100_14x14mm_P0.5mm                                     134.3110   -86.8760    0.0000  top
+U3        USBLC6-2P6            SOT-666                                                     146.2720   -83.6485  180.0000  top
+U4        LPS22HH               ST_HLGA-10_2x2mm_P0.5mm_LayoutBorder3x2y                    145.5420   -80.0100    0.0000  top
+U5        LSM303C               LGA-12_2x2mm_P0.5mm                                         135.3820  -100.8380  180.0000  top
+X1        ECS-2520MV-xxx-xx     Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm             123.5710   -85.3440    0.0000  top
+## End
